@@ -10,9 +10,9 @@ This package contains everything you need to write **Book 1** of the *Astra's Pl
 
 | Folder | Contents |
 |--------|----------|
-| **Book 1 — The Weapon Awakens/** | The full story outline for Book 1, broken into 4 Parts and 30 Chapters. Each chapter contains detailed scene-by-scene beats to be expanded into full prose. |
+| **Book 1 — The Weapon Awakens/** | The full story outline for Book 1, broken into 6 Parts and 33 sub-chapters. Each sub-chapter contains detailed scene-by-scene beats to be expanded into full prose. |
 | **Series Bible/** | Everything about the world, characters, magic, factions, and cosmology. This is your reference manual. |
-| **Series Direction/** | The full arc of the 4-book series, including the ending. Contains every twist, reveal, and major plot point across all seasons so you can plant foreshadowing from Chapter 1. |
+| **Series Direction/** | The full arc of the 4-book series, including the ending. Contains every twist, reveal, and major plot point across all seasons so you can plant foreshadowing from Chapter 1.1. |
 
 ---
 
@@ -59,21 +59,23 @@ This package contains everything you need to write **Book 1** of the *Astra's Pl
 1. Start with **Series Bible/01 - The World.md** to understand the universe
 2. Read **Series Bible/02 - Characters.md** to know who everyone is
 3. Read **Series Direction/01 - Full Series Arc.md** to understand where everything is heading
-4. Then read through **Book 1/** — the Complete Chapter Breakdown contains all 30 chapters
+4. Then read through **Book 1/** — the Complete Chapter Breakdown contains all 33 sub-chapters across 6 Parts
 
 ---
 
 ## Word Count Estimation
 
-| Part | Chapters | Beats (~words) | Estimated Prose |
-|------|----------|----------------|-----------------|
-| Part 1 — The Exile | 1–6 | ~3,000 | 15,000–25,000 |
-| Part 2 — Sophia's Rise | 7–12 | ~3,500 | 18,000–28,000 |
-| Part 3 — Astra's Hunt | 13–18 | ~4,500 | 22,000–35,000 |
-| Part 4 — Brothers' War | 19–30 | ~7,000 | 35,000–55,000 |
-| **Total** | **30 chapters** | **~18,000** | **90,000–143,000** |
+| Part | Sub-chapters | Beats (~words) | Estimated Prose |
+|------|----------|----------------|------------------|
+| Part 1 — The Exile | 1.1–1.6 | ~3,000 | 15,000–25,000 |
+| Part 2 — Sophia's Rise | 2.1–2.6 | ~3,500 | 18,000–28,000 |
+| Part 3 — Astra's Hunt | 3.1–3.6 | ~4,500 | 22,000–35,000 |
+| Part 4 — The Dojo | 4.1–4.6 | ~4,000 | 20,000–30,000 |
+| Part 5 — Oracle | 5.1–5.6 | ~4,000 | 20,000–30,000 |
+| Part 6 — Brothers' War | 6.1–6.3 | ~3,000 | 15,000–25,000 |
+| **Total** | **33 sub-chapters** | **~22,000** | **110,000–173,000** |
 
-The target is a standard fantasy novel length. Each chapter's beats should expand roughly 5–8x into prose. Part 4 is the longest because it contains the tournament arc, the Oracle arc, and the climactic battles.
+The target is a standard fantasy novel length. Each sub-chapter's beats should expand roughly 5–8x into prose. Parts 4 and 5 are the densest, containing the tournament arc and the Oracle arc respectively. Part 6 is the climactic convergence.
 
 ---
 

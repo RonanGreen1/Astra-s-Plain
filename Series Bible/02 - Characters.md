@@ -33,7 +33,7 @@ The **bulk of this emotional development happens in Book 2**, when Angelina teac
 - **Book 4:** Has been God for thousands of years. Becomes the core of Heaven — the paradise he creates but can never participate in.
 
 **Book 1 Specifics:**
-- First appears in Chapter 4, standing amidst destruction in Corvaz holding the green Realm Stone
+- First appears in Chapter 1.4, standing amidst destruction in Corvaz holding the green Realm Stone
 - Ray's final command to him was "survive" before she died
 - Uses the Realm Stone to help Sforza's family escape to the Terra Realm
 - Lives with the family for decades; Sforza treats him almost like a son
@@ -151,7 +151,7 @@ The demon's betrayal (being captured and interrogated) is the direct cause of Ra
 - Born with demonic essence — the reason the family was exiled
 - Neglected by Dimitri, who clearly favours Futures
 - A mysterious voice in his head grows louder over the years
-- In Chapter 6, manipulated by the voice, Dark kills both parents. This is the story's inciting incident.
+- In Chapter 1.6, manipulated by the voice, Dark kills both parents. This is the story's inciting incident.
 - Fights Futures; the home burns. They separate.
 - Wanders Kilson rooftops radiating darkness and bloodlust
 - Approached by Oraylious, who invites him to meet Zion and join Oracle
@@ -185,7 +185,7 @@ The demon's betrayal (being captured and interrogated) is the direct cause of Ra
 
 **Title:** Goddess of Mist
 **Race:** Valerian Angel
-**Status:** Deceased (killed by Dark, Chapter 6)
+**Status:** Deceased (killed by Dark, Chapter 1.6)
 
 Sforza is a deeply complex character. She is warm, nurturing, and treats Astra almost like a son. She loves all her children fiercely. But she also made coldly calculated plans for **every single one of her children**:
 
@@ -206,7 +206,7 @@ She read Astra's memories when the family first arrived in Terra Realm and disco
 **Title:** God of Lightning
 **Race:** Demi (half-angel from Godly Realm royalty, half-dragon from Draconic Realm's Elder 5 bloodline — his **mother** is from the Elder 5 line)
 **Age:** 1,560
-**Status:** Deceased (killed by Dark, Chapter 6)
+**Status:** Deceased (killed by Dark, Chapter 1.6)
 
 Dimitri is brave, powerful, and deeply devoted to Sforza. He defies the Circle of Ten to save his family. But he has a fatal flaw: he openly favours Futures over Dark. This isn't malicious — Futures inherited his lightning, shares his temperament, and is the son he relates to. Dark is… something else. Something that frightens him.
 
@@ -219,7 +219,7 @@ His Blue Lightning was passed to Futures. His dragon heritage (Elder 5 bloodline
 ### RAY — The Goddess Who Made a Weapon
 
 **Title:** Goddess of Life (one of The Original 5)
-**Status:** Deceased (killed during dragon attack, Chapters 4-5)
+**Status:** Deceased (killed during dragon attack, Chapters 1.4–1.5)
 
 One of the five most ancient and powerful gods ever created. Ray worked at The Palios Temple monitoring the Cleansing Pods. She discovered Sforza's demonic pregnancy and tried to warn the family, inadvertently triggering their persecution.
 
@@ -231,7 +231,7 @@ Her final moments: reaching Astra during the dragon attack on Corvaz, whispering
 
 **The Dragon That Killed Ray:** The dragon was a **direct descendant of an Elder Dragon** — not an Elder itself, but close enough in bloodline to be physically devastating. It was raw physical power that killed Ray, because Ray, despite being one of the five most ancient and powerful gods in existence, was **never good at combat**. She was magically powerful beyond measure — her abilities with blood, life force, and creation were unmatched — but she was not a fighter. She couldn't defend herself against a direct physical assault from a creature of that magnitude.
 
-Astra sees her reflection in a river in Chapter 14, reaching for it. She appears as a hand on his shoulder that vanishes when he turns. The blue light that heals him after the Horux fight whispers "Your time has not yet come" — strongly implied to be Ray.
+Astra sees her reflection in a river in Chapter 3.2, reaching for it. She appears as a hand on his shoulder that vanishes when he turns. The blue light that heals him after the Horux fight whispers "Your time has not yet come" — strongly implied to be Ray.
 
 **Secret:** Ray created a serum that controlled memories and suppressed identity — this is what she used to transform baby Astra into a weapon. She worked with a demon (whose blood gave Astra his demonic power) and Varek, the God of Attack (whose blood gave Astra his combat abilities). In Book 4, the villain Mazylin obtains this serum and uses it to weaken Astra and possess his body.
 
@@ -261,7 +261,7 @@ He joins Futures after the tournament and travels with him. In the final battle,
 **Race:** Human
 **Magic:** Gravity Magic (acquired from drinking blood stolen from **Eana, the Goddess of Gravity**, by Sforza)
 **Affiliation:** Leader of Oracle
-**Status:** Deceased (killed by Dark, Chapter 30)
+**Status:** Deceased (killed by Dark, Chapter 6.3)
 
 A human who made a deal with a goddess and gained terrifying power. He can crush people into the ground, force them to kneel, and shape gravity into precise weapons. He is charismatic, calculating, and genuinely powerful — when Dark shakes his hand, Dark (a *god*) feels like his life is in Zion's hands.
 

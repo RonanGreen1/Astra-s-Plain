@@ -2,20 +2,22 @@
 
 ## How to Read This Document
 
-This document contains the complete story of Book 1, broken into 30 chapters across 4 parts. Each chapter corresponds to one episode from the original outline. The text below is **not prose** — it is a detailed scene-by-scene breakdown of everything that happens. The ghost writer's job is to turn these beats into full prose chapters.
+This document contains the complete story of Book 1, broken into **33 sub-chapters across 6 Parts**. Each sub-chapter is numbered by its Part (e.g., 1.1, 1.2 … 6.3). The text below is **not prose** — it is a detailed scene-by-scene breakdown of everything that happens. The ghost writer's job is to turn these beats into full prose chapters.
 
 ### Estimated Word Count
-- **Current beats:** ~15,000–20,000 words total across all 30 chapters
+- **Current beats:** ~18,000–22,000 words total across all 33 sub-chapters
 - **Target prose:** 90,000–150,000 words (a standard fantasy novel)
-- **Average chapter length in prose:** 3,000–5,000 words
-- **Expansion ratio:** Each chapter's beats should expand roughly 5–8x into prose
+- **Average sub-chapter length in prose:** 3,000–5,000 words
+- **Expansion ratio:** Each sub-chapter's beats should expand roughly 5–8x into prose
 
 ### Point of View
 The story uses **third-person limited**, rotating between four POV characters:
 - **Part 1** — Primarily family ensemble (Sophia, Futures, Sforza)
-- **Part 2** — Sophia and Astra (alternating chapters)
+- **Part 2** — Sophia and Astra (alternating sub-chapters)
 - **Part 3** — Astra
-- **Part 4** — Futures, Dark, and ensemble
+- **Part 4** — Futures
+- **Part 5** — Dark
+- **Part 6** — Ensemble (Dark, Futures, Dante)
 
 **Astra's POV** should feel clinical and observational at first, slowly becoming more emotionally textured as the book progresses.
 
@@ -28,11 +30,11 @@ The story uses **third-person limited**, rotating between four POV characters:
 ---
 
 # PART 1 — THE EXILE
-*Chapters 1–6: The family is torn apart*
+*Sub-chapters 1.1–1.6: The family is torn apart*
 
 ---
 
-## Chapter 1 — Torn Bonds and War's Eve
+## Chapter 1.1 — Torn Bonds and War's Eve
 *Original title: "Torn Bonds and War's Eve"*
 
 The chapter opens in the Circle of Ten — the ruling council of ten gods. They are in heated debate about their involvement in the Holy War. The air is thick with tension. Qazar chairs the meeting. Jupiter is outspoken and is interrupted by Qazar, who puts the proposition of gods fighting on the front line to a vote. The vote passes. Dimitri and Sforza are chosen to attend a battle in the coming days.
@@ -51,7 +53,7 @@ The chapter ends with Sophia comforting Futures in the rain. Family, duty, and t
 
 ---
 
-## Chapter 2 — Shadows and Prophecies
+## Chapter 1.2 — Shadows and Prophecies
 *Original title: "Shadows and Prophecies"*
 
 Sophia and Futures sit on a couch wrapped in towels, recovering from the emotional storm. Sophia assumes the protective elder sibling role, explaining to Futures that as gods, their parents have a duty to shield the powerless.
@@ -66,7 +68,7 @@ But the victory is short-lived. A Black Demon emerges — a direct servant of on
 
 ---
 
-## Chapter 3 — Echoes of Deceit and a Fateful Escape
+## Chapter 1.3 — Echoes of Deceit and a Fateful Escape
 *Original title: "Echoes of Deceit and a Fateful Escape"*
 
 The Palios Temple. Ray monitors the Cleansing Pods containing the recovering Dimitri and Sforza. She discovers an anomaly in Sforza's pod — the demonic presence.
@@ -81,7 +83,7 @@ In a desperate move, Dimitri flies away with the children just in time, narrowly
 
 ---
 
-## Chapter 4 — Shattered Sanctuary and Unforeseen Alliances
+## Chapter 1.4 — Shattered Sanctuary and Unforeseen Alliances
 *Original title: "Shattered Sanctuary and Unforeseen Alliances"*
 
 A sweeping view of Corvaz, the majestic capital city of the Godly Realm. Towering skyscrapers of celestial architecture, a city bustling with angelic inhabitants. Then — a secluded alleyway, where Sforza, Dimitri, and the children hide from the Circle of Ten.
@@ -98,7 +100,7 @@ As they recover, a mysterious silhouette emerges through the dust.
 
 ---
 
-## Chapter 5 — A New Realm and Uncharted Bonds
+## Chapter 1.5 — A New Realm and Uncharted Bonds
 *Original title: "A New Realm and Uncharted Bonds"*
 
 The family confronts the mysterious figure — Astra. Flashbacks reveal the moments leading to this encounter: Ray's final command to Astra — *"survive"* — as she dies in the dragon attack.
@@ -115,7 +117,7 @@ The chapter ends with the family, now including Astra, beginning their new life 
 
 ---
 
-## Chapter 6 — Time's Passage and Unfolding Destinies
+## Chapter 1.6 — Time's Passage and Unfolding Destinies
 *Original title: "Time's Passage and Unfolding Destinies"*
 
 **THE INCITING INCIDENT.**
@@ -141,11 +143,11 @@ Sophia prepares to leave with Astra. Their departure mirrors the letter left by 
 ---
 
 # PART 2 — SOPHIA'S RISE
-*Chapters 7–12: Sophia enters the political world of Kilson*
+*Sub-chapters 2.1–2.6: Sophia enters the political world of Kilson*
 
 ---
 
-## Chapter 7 — Crossroads and Unseen Threats
+## Chapter 2.1 — Crossroads and Unseen Threats
 *Original title: "Crossroads and Unseen Threats"*
 
 Astra and Sophia enter the bustling city of Kilson on horseback. They are outsiders in a vast, unfamiliar human city.
@@ -160,7 +162,7 @@ The chapter ends with Sophia accepting the prince's request, marking her deeper 
 
 ---
 
-## Chapter 8 — Alliance and Shadows
+## Chapter 2.2 — Alliance and Shadows
 *Original title: "Alliance and Shadows"*
 
 Sophia begins forming The Umbro. Accompanied by Prince Balavis, she observes the kingdom's soldiers in training, selecting candidates based on unique skills and potential.
@@ -175,7 +177,7 @@ The chapter ends with Sophia reflecting on her actions and the growing complexit
 
 ---
 
-## Chapter 9 — Converging Paths and Hidden Agendas
+## Chapter 2.3 — Converging Paths and Hidden Agendas
 *Original title: "Converging Paths and Hidden Agendas"*
 
 Sophia continues training The Umbro while pursuing her underlying mission against the Circle of Ten.
@@ -192,7 +194,7 @@ Twist: Orion possesses unique abilities that pose a genuine challenge to Sophia.
 
 ---
 
-## Chapter 10 — The Dance of Deception and Power
+## Chapter 2.4 — The Dance of Deception and Power
 *Original title: "The Dance of Deception and Power"*
 
 Sophia and Orion clash physically. Under a blossom tree, leaves swirling, they fight — it's a test of wits and strategy as much as strength. Sophia is genuinely challenged.
@@ -207,7 +209,7 @@ The chapter ends with the kingdom preparing for a major political event. Sophia 
 
 ---
 
-## Chapter 11 — Tangled Webs and Royal Ambitions
+## Chapter 2.5 — Tangled Webs and Royal Ambitions
 *Original title: "Tangled Webs and Royal Ambitions"*
 
 Sophia navigates royal court duties and strategic planning. Her heart is torn between growing responsibilities and thoughts of Astra.
@@ -224,7 +226,7 @@ The Kilson Royal Wedding. Sophia stands beside Balavis. Her expression: satisfac
 
 ---
 
-## Chapter 12 — Royal Intrigues and Unseen Shadows
+## Chapter 2.6 — Royal Intrigues and Unseen Shadows
 *Original title: "Royal Intrigues and Unseen Shadows"*
 
 Sophia as princess, seated beside Balavis. Beneath the surface: a complex web of court politics and personal agendas.
@@ -240,11 +242,11 @@ She's referring to Futures.
 ---
 
 # PART 3 — ASTRA'S HUNT
-*Chapters 13–18: Astra discovers what it means to be human*
+*Sub-chapters 3.1–3.6: Astra discovers what it means to be human*
 
 ---
 
-## Chapter 13 — Unravelling Loyalties and Emerging Threats
+## Chapter 3.1 — Unravelling Loyalties and Emerging Threats
 
 Focus shifts to Astra. We retrace his steps from the moment Sophia told him to leave — his solitary journey through unfamiliar territories.
 
@@ -258,7 +260,7 @@ Astra embarks on his first mission. It tests his skills and his understanding of
 
 ---
 
-## Chapter 14 — *[Untitled]*
+## Chapter 3.2 — The River's Reflection
 
 Astra and several Bayleen Hunters stalk Gumpo in Ioawa. Gumpo is a scrawny man who threatens Astra with a Blunt Rusted Blade. Before he knows what happened, his arms are broken. Shot from above: Astra's amber eyes glow. Adam moves in laughing, friendly with Astra. They chase down two others and collect the bounty from King Istaliaara of the Casp Dried Plains region.
 
@@ -272,7 +274,7 @@ Astra stares into his reflection. He reaches out to touch it — just before his
 
 ---
 
-## Chapter 15 — *[Untitled]*
+## Chapter 3.3 — Ambush at Seirra Square
 
 Jack wakes up — Astra's bed is empty. He goes downstairs where everyone is eating breakfast made by Elada. Astra is sitting there. Jack gets mocked for sleeping late.
 
@@ -294,7 +296,7 @@ The three survivors carry Astra and flee. Behind them, Jack and Blake hold the l
 
 ---
 
-## Chapter 16 — *[Untitled]*
+## Chapter 3.4 — Ashes and Absence
 
 Back at Bayleen Hunters HQ. The news is broken. Lacy collapses into tears. Millie looks up at her cluelessly. Others hold back tears; anger fills many. They plan revenge — everyone except children and non-fighters will join.
 
@@ -314,7 +316,7 @@ The others arrive. Mandy falls to the ground vomiting from the sight, tears fall
 
 ---
 
-## Chapter 17 — *[Untitled]*
+## Chapter 3.5 — Behold the Power of a Doll
 
 The group sits outside against the wall of their fallen headquarters. Tears run dry, eyes reddened — except Astra's. He stands quietly pondering this feeling welling up inside him. He looks at his blood-stained hands.
 
@@ -348,7 +350,7 @@ He hands her to Larson. Looks at Horux with a grin.
 
 ---
 
-## Chapter 18 — *[Untitled]*
+## Chapter 3.6 — Red Markings
 
 Flashback: Sforza telling Astra what he will encounter in the future.
 
@@ -378,12 +380,12 @@ Goodbyes. The chapter ends with Astra riding through the desert toward Solamina.
 
 ---
 
-# PART 4 — BROTHERS' WAR
-*Chapters 19–30: Futures trains, Dark descends, and the brothers find each other*
+# PART 4 — THE DOJO
+*Sub-chapters 4.1–4.6: Futures trains and discovers his true power*
 
 ---
 
-## Chapter 19 — *[Untitled]*
+## Chapter 4.1 — Graves and Grudges
 
 Sforza's Lodge. Futures stands above two mounds of dirt — his parents' graves. Hands covered in dirt and mud. The lodge is burnt to ash behind him. Rain begins to fall.
 
@@ -403,7 +405,7 @@ Shranota jumps and matches Futures' fist with his right leg. A loud vibration. F
 
 ---
 
-## Chapter 20 — *[Untitled]*
+## Chapter 4.2 — The Stamoid Block
 
 Futures wakes on a bedroll in unfamiliar sleeping quarters. Sunlight through a small window. He walks through a hallway of similar rooms — sleeping quarters — and follows voices to a classroom.
 
@@ -427,7 +429,7 @@ The chapter ends with Futures looking at his reflection in the sword.
 
 ---
 
-## Chapter 21 — *[Untitled]*
+## Chapter 4.3 — Anger as a Weapon
 
 The one-on-ones continue. Futures watches more closely now. Against Mayvin, he notices her low-hand bait, avoids the trap, grabs her hand, pushes her into the ground, wins. Progress.
 
@@ -463,7 +465,7 @@ The chapter ends with all students arriving at the Singhi Tournament arena.
 
 ---
 
-## Chapter 22 — *[Untitled]*
+## Chapter 4.4 — The Singhi Tournament
 
 **THE SINGHI TOURNAMENT.**
 
@@ -495,7 +497,7 @@ Singhi Stadium in central Kilson. Four fighting schools, four masters, four stud
 
 ---
 
-## Chapter 23 — *[Untitled]*
+## Chapter 4.5 — The Finals
 
 **Round 2 continued:**
 4. Kian vs Dante — Kian wins. Dante is helpless, loses both his wakizashis. Taken to the med room. Manta goes to check on him.
@@ -514,7 +516,7 @@ A burst of purple light. A massive black rock slams down from the sky between th
 
 ---
 
-## Chapter 24 — *[Untitled]*
+## Chapter 4.6 — God, Dragon, Futures
 
 Dust fills the stadium. The rock splits in half — Pharoh stopped it from hitting them both. He's heavily injured. Falls to one knee. Futures looks up.
 
@@ -560,53 +562,78 @@ A bird's-eye view of the dojo in daylight. Then it flickers: the same dojo, cove
 
 ---
 
-## Chapter 25 — *[Untitled]*
+# PART 5 — ORACLE
+*Sub-chapters 5.1–5.6: Dark descends into darkness and discovers who he truly is*
 
-Dark stands on a Kilson rooftop, grinning, darkness flowing around him. A figure appears behind him. *"Are you looking for a fight?"* The man chuckles. **Oraylious.** He extends an invitation on behalf of someone else.
+---
+
+## Chapter 5.1 — The Oracle's Invitation
+
+Dark stands on a Kilson rooftop, grinning, darkness flowing around him. The demon's voice is a constant companion now — whispering, mocking, pushing. Dark has embraced it. He feels powerful, but hollow. The city stretches below him, and he watches it with contempt.
+
+A figure appears behind him. *"Are you looking for a fight?"* The man chuckles. **Oraylious.** He extends an invitation on behalf of someone else. Dark is intrigued — the demon urges caution, but Dark's pride wins out.
 
 Dark follows him to the Dansia Chapel. Inside, Priest Tomo prays at the altar. Oraylious announces their arrival — and before Tomo stands a tall man in black leather with purple eyes. **Zion.** Leader of Oracle.
 
-As Zion walks past Priest Tomo, seemingly doing nothing, Tomo's head slides from his shoulders.
+As Zion walks past Priest Tomo, seemingly doing nothing, Tomo's head slides from his shoulders. The casual brutality is a statement: *this is who you're dealing with.*
 
 Zion introduces his people: Oraylious, Baxter (the one who attacked Sophia and Astra), Tailors, and mentions Horux (away on business). He holds out his hand.
 
-Dark hesitantly shakes it — and his eyes widen. He can feel Zion's essence surrounding him. *Like his life is in Zion's hands.* He nearly bows but resists.
+Dark hesitantly shakes it — and his eyes widen. He can feel Zion's essence surrounding him. *Like his life is in Zion's hands.* He nearly bows but resists. The demon inside Dark recoils — it recognises something about Zion's power that Dark doesn't yet understand.
+
+---
+
+## Chapter 5.2 — Demonstrations of Power
+
+Zion takes Dark on a tour of his world — a demonstration of power meant to seduce and terrify in equal measure.
 
 They walk through the city. They pass Pharoh and Master Easton, who nearly stop in their tracks sensing Zion's power. Easton whispers to Pharoh: *"Just keep walking. I'll send Milo to watch them."*
 
 They arrive at Kilson's Temporal Library. Zion points out a green sparkling squirrel — a girl named Milo watching them. Milo conjures a red fox and attacks. Dark fights her but can't keep up — she summons multiple animals. He realises he can't beat her.
 
-Zion steps forward and clenches his fist. Milo's body is crushed into the ground. Mangled. Dead. All animals vanish. Dark's stomach twists.
+Zion steps forward and clenches his fist. Milo's body is crushed into the ground. Mangled. Dead. All animals vanish. Dark's stomach twists. He wanted to fight — not watch someone die like *that*.
 
-Inside the library, Dark kills five people in a room before he even registers the request. Zion takes a ring from the lead man's finger — the Ring of Solis. Used on Dark: holy fire burns him. Dark uses it on Zion: nothing happens. Another reminder of Zion's power.
+Inside the library, Dark kills five people in a room before he even registers the request. He's becoming what Zion wants him to be. Zion takes a ring from the lead man's finger — the Ring of Solis. Used on Dark: holy fire burns him. Dark uses it on Zion: nothing happens. Another reminder of Zion's power.
 
 Outside: people gathering around Milo's body. Master Easton, Pharoh (tears in his eyes), two A-class Enforcers. Zion creates a Gravitational Collapse sinkhole. They escape.
 
 Back at the chapel, Dark agrees to be trained. Zion explains the Enforcer system: Districts, S through D ranks, 8 S-class total, 20-25 A-class. District 2's S-class: **Ishido Fuju** — the strongest, equivalent to 10 A-class Enforcers. Dark asks why they'd go to that district. *"Even though he's the strongest, there's only one of him."*
 
----
-
-## Chapter 26 — *[Untitled]*
-
-Zion gives Dark a mission: kill two A-class Enforcers — Vian and Host. Vian is a katana master wielding Divinity. Host uses Colossal Possession.
-
-Dark sets out with Baxter. They wait on rooftops above a dark alley. Hours pass. The Enforcers walk through. Dark and Baxter drop from either side.
-
-The Enforcers are on a different level. Vian damages Dark faster than he can regenerate. Host disposes of Baxter quickly. 2-on-1 against Dark — Vian is a step above even Host.
-
-As Dark feels his life slipping away, he sees **fear in the demon inside him** for the first time. And in that moment — he **breaks free** from the grip the demon has had over him since he killed Sforza.
-
-He feels like *himself*. His full godly power surges — no longer split with the demon. He quickly kills Host (who let his guard down). He covers the area in Mist to counter Divinity's blinding light and finishes Vian.
-
-Vian's last words to Dark linger and make him question what he's doing. But even though his inherent rage has diminished, hatred toward Futures remains.
-
-The chapter ends at the Dansia Chapel. Dark, Zion, and Tailors are present. The doors open. Standing there: **Ishido Fuju.**
+Dark lies awake that night in the chapel. The demon whispers about Futures — stoking the hatred. But part of Dark, the part he's trying to bury, remembers his mother's face. He pushes it down.
 
 ---
 
-## Chapter 27 — *[Untitled]*
+## Chapter 5.3 — The Enforcer Hunt
 
-Dark, Zion, Snide, Lacray, and Tailors face Ishido Fuju at the chapel doors. Even Zion looks afraid. Dark can feel this man is on an entirely different level.
+Zion gives Dark a mission: kill two A-class Enforcers — Vian and Host. Vian is a katana master wielding Divinity. Host uses Colossal Possession. This is Dark's test — proof that he's worth Zion's investment.
+
+Dark sets out with Baxter. The journey to District 2 is quiet. Baxter is professional, detached — he doesn't make small talk. Dark tries to read him. Baxter's loyalty to Zion is absolute, and Dark can't figure out why.
+
+They wait on rooftops above a dark alley. Hours pass. The city below moves in its rhythms. Dark and the demon argue internally — the demon wants to charge in, Dark wants to be strategic. For the first time, their goals don't fully align.
+
+The Enforcers walk through. Dark and Baxter drop from either side.
+
+The Enforcers are on a different level. Vian damages Dark faster than he can regenerate. Host disposes of Baxter quickly. 2-on-1 against Dark — Vian is a step above even Host. Dark's Mist is overwhelmed by Divinity's holy light. He's bleeding, broken, losing consciousness.
+
+---
+
+## Chapter 5.4 — Breaking the Grip
+
+As Dark feels his life slipping away, he sees **fear in the demon inside him** for the first time. Not fear for Dark — fear for *itself*. It's going to die too. And in that moment of the demon's vulnerability — Dark **breaks free** from the grip it has had over him since he killed Sforza.
+
+He feels like *himself*. The haze lifts. His thoughts are his own for the first time in years. His full godly power surges — no longer split with the demon. The power that was divided between two souls now flows entirely through one.
+
+He quickly kills Host (who let his guard down, not expecting the power shift). He covers the area in Mist to counter Divinity's blinding light and finishes Vian.
+
+Vian's last words to Dark linger and make him question what he's doing. *Who are you really fighting for?* But even though his inherent rage has diminished — the blinding fury that the demon amplified — the hatred toward Futures remains. That hatred is *his*. It was always his.
+
+Dark stands over the bodies. He picks up Baxter (barely alive) and returns to the Dansia Chapel. The chapter ends with Dark, Zion, and Tailors present. The doors open. Standing there: **Ishido Fuju.**
+
+---
+
+## Chapter 5.5 — Soul Separation
+
+Dark, Zion, Snide, Lacray, and Tailors face Ishido Fuju at the chapel doors. Even Zion looks afraid. Dark can feel this man is on an entirely different level — a pressure that makes his bones ache.
 
 Ishido throws Baxter's severed head onto the floor.
 
@@ -622,25 +649,40 @@ Dark fights Ishido alone. Outmatched. Ishido hits Dark with Soul Separation — 
 
 Zion regains consciousness, stumbles to the street, and collapses the building.
 
-**DARK IN THE ASTRAL PLAIN:** A blue dimension. Thin layer of water covering a flat, infinite floor. Deep blue sky. Dark turns and sees his parents — Sforza and Dimitri — in translucent soul form.
+---
 
-They explain this is the Astral Plain. If he had enemies here, he'd have to fight them (how Tailors died, what Zion experienced). Then they say it:
+## Chapter 5.6 — The Astral Plain
+
+**DARK IN THE ASTRAL PLAIN.** A blue dimension. Thin layer of water covering a flat, infinite floor. Deep blue sky stretching to infinity. Dark turns and sees his parents — Sforza and Dimitri — in translucent soul form.
+
+They explain this is the Astral Plain. If he had enemies here, he'd have to fight them (how Tailors died, what Zion experienced). But Dark has no enemies here. Only his parents.
+
+Then they say it:
 
 *They love him. No matter what. They will always love him.*
 
-Dark struggles to hear these words. Tears fall. The mother he murdered loves him unconditionally.
+Dark struggles to hear these words. The weight of what he did — the images of that night, his mother's face, the blood on his hands — crashes over him. Tears fall. They splash onto the thin layer of water beneath his feet. The mother he murdered loves him unconditionally. The father who never showed him enough love stands beside her, radiating warmth and regret.
 
-He realises he can hear and vaguely see through his own eyes — the demon is using his body. But he can't get back in control.
+Sforza tells him that the demon used his real feelings — his real pain — and twisted them. The act was the demon's, but the hurt was real. She doesn't blame him. She blames herself for not protecting him better.
 
-Back with Zion: Ishido crawls from the rubble, battered and holed. They fight — Zion is enhanced by Lacray (2-3x strength, speed, perception). After exchanges, Zion wins — but Ishido uses Soul Separation *on himself* as a last resort. His eyes go white. Power from absorbed souls flows through him. He nearly kills Zion. Dark (demon-controlled) saves Zion at the last moment. Ishido disappears.
+Dark weeps. For the first time since childhood, he weeps without the demon mocking him for it.
+
+He realises he can hear and vaguely see through his own eyes — the demon is using his body in the physical world. But he can't get back in control. Not yet.
+
+**Meanwhile, in the physical world:** Ishido crawls from the rubble, battered and holed. They fight — Zion is enhanced by Lacray (2-3x strength, speed, perception). After exchanges, Zion wins — but Ishido uses Soul Separation *on himself* as a last resort. His eyes go white. Power from absorbed souls flows through him. He nearly kills Zion. Dark (demon-controlled) saves Zion at the last moment. Ishido disappears.
 
 Dark tells Zion he's going to kill Futures whether Zion likes it or not. Zion tells him Futures is at Shranota's Dojo.
 
-The chapter ends with Dark standing outside the dojo at night.
+The chapter ends with Dark standing outside the dojo at night. Inside the body, the real Dark can see the firelight through the windows. The demon grins with his face.
 
 ---
 
-## Chapter 28 — *[Untitled]*
+# PART 6 — BROTHERS' WAR
+*Sub-chapters 6.1–6.3: The brothers clash, reconcile, and the truth is revealed*
+
+---
+
+## Chapter 6.1 — The Dojo Burns
 
 **THE DOJO MASSACRE.**
 
@@ -674,7 +716,7 @@ Dark's eyes flicker. **He is back in control.**
 
 ---
 
-## Chapter 29 — *[Untitled]*
+## Chapter 6.2 — Caged Demon
 
 Dark takes a step back. He sees what he did — he impaled Futures. Futures falls to one knee, smirking, knowing there were two souls fighting inside his brother.
 
@@ -698,7 +740,7 @@ Futures rises. Gently sets Dante down. Eyes glowing blue. Rage ignited.
 
 ---
 
-## Chapter 30 — *[Untitled]*
+## Chapter 6.3 — Sforza's Grand Design
 
 Futures darts toward Snide — not Zion, which confuses everyone. That confusion gives Dark an opening.
 

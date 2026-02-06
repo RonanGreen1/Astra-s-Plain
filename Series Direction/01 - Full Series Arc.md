@@ -29,33 +29,33 @@ But The Almighty One built a flaw into creation: the **Embedded System**. Energy
 ## BOOK 1 — THE WEAPON AWAKENS
 *Themes: Family, Exile, Identity, the first stirrings of emotion*
 
-### Setup (Chapters 1)
+### Setup (Part 1)
 The Godly Realm is at war. The Circle of Ten (the ruling council of gods) has declared the unborn child of Dimitri and Sforza an abomination — half-angel, half-demon, cursed in the womb by a Black Demon. This child is Dark. The Circle orders his death. Sforza and Dimitri refuse. War erupts: the Holy War.
 
 Futures (their older son) and Sophia (their eldest) train together in flashbacks. The family receives word that the war is coming to them. Sforza and Dimitri leave their children at home and join the front.
 
-### The Catalyst (Chapters 2)
+### The Catalyst (Parts 1–2)
 During a massive dragon attack on the battlefield at Corvaz, Astra appears for the first time — standing in the destruction holding a green Realm Stone. Ray created him and dies whispering "survive." Astra brings the Realm Stone to Sforza. The family uses it to escape to the Terra Realm (Earth).
 
-Decades pass. The children grow. Dark's inner demon voice grows louder. Dimitri's favouritism of Futures over Dark becomes more pronounced. In Chapter 6, the demon pushes Dark over the edge. He kills both parents. This is the inciting incident.
+Decades pass. The children grow. Dark's inner demon voice grows louder. Dimitri's favouritism of Futures over Dark becomes more pronounced. In Chapter 1.6, the demon pushes Dark over the edge. He kills both parents. This is the inciting incident.
 
 **Result:** The four main characters scatter:
 - Sophia leaves with Astra (she can't bear to stay)
 - Futures buries his parents and goes alone (consumed by rage)
 - Dark vanishes into the night
 
-### Four Parallel Arcs (Chapters 3-6)
+### Four Parallel Arcs (Parts 2–6)
 
-**Sophia's Arc — Kilson Politics (Chapters 3):**
+**Sophia's Arc — Kilson Politics (Part 2):**
 Sophia and Astra travel to Kilson and are attacked (by Oracle's Horux). Sophia separates from Astra to protect him. She's taken in by the Kilson royal family. She builds The Umbro (an elite military force), manipulates Prince Balavis's mind, and marries into royalty. Queen Velera discovers she's a god and they reach an agreement. Sophia ends Book 1 seeing a dragon in the sky and recognising it as Futures' awakened power.
 
-**Astra's Arc — The Bayleen Hunters (Chapters 4):**
+**Astra's Arc — The Bayleen Hunters (Part 3):**
 Astra wanders to the desert town of Ioawa and joins a bounty hunting guild. Jack teaches him about family through example. Blake has a philosophical conversation about what "being alive" means. Kingpin Xiomi massacres the guild. Jack and Blake sacrifice themselves. Jack's last words: "protect my family for me… and tell my little girl daddy loves her." Astra fights Horux, reaches red Sealed Markings, and barely survives — healed by a mysterious blue light. He heads to Solamina.
 
-**Futures' Arc — The Dojo (Chapters 5):**
+**Futures' Arc — The Dojo (Part 4):**
 Futures arrives in Kilson full of rage. Shranota defeats him and takes him as a student. At the dojo, he learns discipline, momentum, and precision. Dante becomes his rival-turned-friend. He enters the Singhi Tournament, fights Pharoh, and the finals are interrupted by Oraylious's attack. Futures unleashes Blue Lightning, partially transforms into a dragon, and kills Oraylious. Dante joins him; they leave to find their siblings.
 
-**Dark's Arc — Oracle (Chapters 6):**
+**Dark's Arc — Oracle (Part 5):**
 Dark joins Zion's Oracle faction. He's sent to kill Enforcers. As he's dying against Vian and Host, he breaks free of the demon's grip for the first time. He kills them both. Ishido Fuju (S-class Enforcer) attacks Oracle, separates Dark's soul from his body, and the demon takes over.
 
 Dark's soul goes to the Astral Plain and meets his dead parents' souls. They forgive him. They love him unconditionally. He weeps.
