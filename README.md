@@ -11,6 +11,7 @@ This package contains everything you need to write **Book 1** of the *Astra's Pl
 | Folder | Contents |
 |--------|----------|
 | **Book 1 — The Weapon Awakens/** | The full story outline for Book 1, broken into 6 Parts and 33 sub-chapters. Each sub-chapter contains detailed scene-by-scene beats to be expanded into full prose. |
+| **Book 1 — …/Chapter Details/** | Deep-dive files for individual chapters. These contain **scene-by-scene specifics**: exact settings, dialogue direction, character blocking, visual details, and writer's notes. Read the Complete Chapter Breakdown first for the story flow, then consult the Chapter Details for granular prose guidance. |
 | **Series Bible/** | Everything about the world, characters, magic, factions, and cosmology. This is your reference manual. |
 | **Series Direction/** | The full arc of the 4-book series, including the ending. Contains every twist, reveal, and major plot point across all seasons so you can plant foreshadowing from Chapter 1.1. |
 
@@ -60,6 +61,7 @@ This package contains everything you need to write **Book 1** of the *Astra's Pl
 2. Read **Series Bible/02 - Characters.md** to know who everyone is
 3. Read **Series Direction/01 - Full Series Arc.md** to understand where everything is heading
 4. Then read through **Book 1/** — the Complete Chapter Breakdown contains all 33 sub-chapters across 6 Parts
+5. For chapters that have a **Chapter Details** file, read those alongside the relevant sub-chapter for full scene-by-scene specifics
 
 ---
 

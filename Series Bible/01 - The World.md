@@ -167,9 +167,12 @@ The divine inhabitants of the Godly Realm. They serve the Almighty One and follo
 **Key Divine Law — The Treason Law:** It is treason to shelter, aid, or side with a demon in any way. Violators are expected to eliminate any demonic presence, *even if it means killing their own child*. This is the law that condemns Sforza when she refuses to kill her unborn son Dark.
 
 **How Gods Are Made:**
-1. **From Tenlith's swords** — When the god Tenlith was executed, his floating swords each became a new god (Nova, Miiac, Qazar, and others)
-2. **Born** — Some gods have children who are gods
-3. **Granted power** — Through absorbing one of Tenlith's remaining power swords, outsiders can be elevated to godhood (this is how Eana joined the Circle of Ten — she absorbed the Gravity Sword)
+
+1. **Born Through Blood (Natural Birth)** — The primary way new gods come into existence. When two gods conceive a child, **both parents sacrifice a portion of their own embedded power** to form the child's soul. This is not a fixed amount — it varies wildly from birth to birth. Some children draw only a sliver of power, leaving the parents barely diminished. Others draw far more. In extremely rare cases, a child can draw so much power during conception that **it kills one or both parents**. There is no way to predict or control how much power a child will take; it is one of the few things in the universe that is genuinely random. In addition to the parental sacrifice, the child's soul also absorbs **a portion of ambient energy from the Almighty One** — residual creative power that permeates the atmosphere and the fabric of existence itself. This means every god born is partly made from their parents' power and partly from the Almighty One's lingering energy, further contributing to his gradual weakening over time. This dual source is why gods can be born with abilities neither parent possessed — the Almighty One's ambient energy can embed in unpredictable ways.
+
+2. **From Tenlith's Swords** — When the god Tenlith was executed, his floating swords each became a new god (Nova, Miiac, Qazar, and others). Each sword carried a fragment of Tenlith's immense power, and when he died, that power crystallised into new divine beings.
+
+3. **Granted Power (Elevation)** — Through absorbing one of Tenlith's remaining power swords, outsiders can be elevated to godhood. This is how **Eana** joined the Circle of Ten — she absorbed the Gravity Sword, and its embedded energy fused with her soul, transforming her into a full god.
 
 ### Demi
 
